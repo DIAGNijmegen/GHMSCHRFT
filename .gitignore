@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+output/
+*.jsonl
+!test-input/*.jsonl

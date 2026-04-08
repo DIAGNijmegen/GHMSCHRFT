@@ -1,0 +1,8 @@
+{
+  "jobid": 3020,
+  "task_name": "Task302_anonymisation_ner_aug",
+  "input_name": "text_parts",
+  "label_name": "named_entity_recognition_target",
+  "recommended_truncation_side": "left",
+  "version": "1.0"
+}
