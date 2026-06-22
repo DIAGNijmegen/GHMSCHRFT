@@ -176,11 +176,11 @@ response = requests.post(
 
 ---
 
-## Citation
+## Citation & Attribution
 
-If you use this model, please cite:
+If you use this model in your work, please cite:
 
-```
+```bibtex
 @software{GHMSCHRFT,
   author = {Builtjes, Luc},
   title  = {GHMSCHRFT: Dutch Medical Report Anonymizer},
@@ -188,3 +188,14 @@ If you use this model, please cite:
   url    = {https://github.com/LMMasters/GHMSCHRFT}
 }
 ```
+
+This tool was developed by the **Oncology Research Group** at the Diagnostic Image Analysis Group (DIAG), Radboud University Medical Center.
+🔗 [diagnijmegen.nl/research/oncology](https://www.diagnijmegen.nl/research/oncology/)
+
+**Contact:**
+| Name | Email |
+|---|---|
+| Luc Builtjes | [luc.builtjes@radboudumc.nl](mailto:luc.builtjes@radboudumc.nl) |
+| Alessa Hering | [alessa.hering@radboudumc.nl](mailto:alessa.hering@radboudumc.nl) |
+
+---
